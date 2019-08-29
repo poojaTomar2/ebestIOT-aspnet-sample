@@ -42,5 +42,5 @@ See the following related Docker Hub repos:
 
 See the following related  GitHub repos:
 
-- [dotnet/dotnet-docker-samples](https://github.com/dotnet/dotnet-docker-samples/) for .NET Core samples.
+- [dotnet/dotnet-docker-samples](https://github.com/dotnet/dotnet-docker-samples/) for .NET Core samples
 
